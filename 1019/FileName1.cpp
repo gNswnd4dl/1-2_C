@@ -18,7 +18,7 @@ int main(void) {
 		scanf_s("%d", &score[k]);
 		sum += score[k];
 	}
-	printf("รัมก: %d\n", sum);
+	printf("รัมก: %d\n\n", sum);
 	
 	
 	for (int k = 0; k < student; k++) {
